@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ImbQyt31LGsJryBNRL2NOVuJw7ufAi0Ge3uo4/RqYOscQiWm3gG0ffPzZ6Tm8+jQb3DTDqtKwQJgysSSMNaWiw==",
+  "dgSpecHash": "+Xqr78WaWeS9VGZit+ecZZhCN0BpelOoksH7/H3CSYR1rpb3tscBmCCSlg2Lt8CrHPoq0r/fv5M1oqGOSk5hFQ==",
   "success": true,
-  "projectFilePath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj",
+  "projectFilePath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

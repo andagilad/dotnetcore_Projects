@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JGdcf6hm+MEBuF/5TtuZXOqLfE83xWM/wtgnBjt52owpR4d3IsejHjpE4l7KW8svoANiEmLbLq2Ln/GVOlHmNQ==",
+  "dgSpecHash": "Q/zsTUIhucWuhY7PWbjL3c3srrjDTSGZD0M59lsRS69+dP3mi/nCaLhY6veinkeVjpt6HcL17ZeHzL43NwyMEA==",
   "success": true,
-  "projectFilePath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj",
+  "projectFilePath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

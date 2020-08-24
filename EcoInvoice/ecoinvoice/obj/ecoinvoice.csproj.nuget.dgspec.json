@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Learning\\Core\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj": {}
+    "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj": {
+    "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj",
+        "projectUniqueName": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj",
         "projectName": "ADEmailSender",
-        "projectPath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj",
+        "projectPath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj",
         "packagesPath": "C:\\Users\\300226376\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\obj\\",
+        "outputPath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Data\\Learning\\Core\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj": {
+    "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Learning\\Core\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj",
+        "projectUniqueName": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj",
         "projectName": "ecoinvoice",
-        "projectPath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj",
+        "projectPath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ecoinvoice\\ecoinvoice.csproj",
         "packagesPath": "C:\\Users\\300226376\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ecoinvoice\\obj\\",
+        "outputPath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ecoinvoice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj": {
-                "projectPath": "C:\\Data\\Learning\\Core\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj"
+              "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj": {
+                "projectPath": "C:\\Data\\Learning\\dotnetcore\\EcoInvoice\\ADEmailSender\\ADEmailSender.csproj"
               }
             }
           }
