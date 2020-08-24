@@ -1,0 +1,9 @@
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\bin\Debug\netcoreapp2.0\ADEmailSender.deps.json
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\bin\Debug\netcoreapp2.0\ADEmailSender.dll
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\bin\Debug\netcoreapp2.0\ADEmailSender.pdb
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\obj\Debug\netcoreapp2.0\ADEmailSender.csprojAssemblyReference.cache
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\obj\Debug\netcoreapp2.0\ADEmailSender.AssemblyInfoInputs.cache
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\obj\Debug\netcoreapp2.0\ADEmailSender.AssemblyInfo.cs
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\obj\Debug\netcoreapp2.0\ADEmailSender.csproj.CoreCompileInputs.cache
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\obj\Debug\netcoreapp2.0\ADEmailSender.dll
+C:\Data\Learning\Core\EcoInvoice\ADEmailSender\obj\Debug\netcoreapp2.0\ADEmailSender.pdb
